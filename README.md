@@ -1,2 +1,4 @@
-# pyrahacks
-An Astronomy Project that helps students to learn more about stars
+# pyrahacks Constellation Handbook 
+"The Constellation Handbook" is a user-friendly interactive website that aims to offer a thorough reference for astronomy lovers who are new to stargazing. The guidebook includes a carefully picked list of notable and identifiable constellations visible from various latitudes and seasons, as well as detailed pictures and interpretations of their mythical roots. It provides step-by-step directions for celestial navigation using the naked eye or simple stargazing equipment such as binoculars or telescopes. Fundamental astronomy topics such as Moon phases, planetary observations, and meteor showers are discussed in addition to constellation specifics. The handbook's simple language and practical advice enable newcomers to comfortably explore the night sky and develop a lifelong interest in astronomy.
+
+
